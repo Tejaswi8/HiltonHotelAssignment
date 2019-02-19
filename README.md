@@ -1,6 +1,6 @@
 # HiltonHotelAssignment
 
-## Webpack react minimal boilerplate
+## Used Webpack react minimal boilerplate for initial set up and renders static page.
 <p align="center">
     <img alt="dependencies" title="dependencies" src="https://img.shields.io/david/hashemkhalifa/webpack-react-boilerplate.svg" >
    <img alt="dependencies" title="dependencies" src="https://img.shields.io/github/last-commit/hashemkhalifa/webpack-react-boilerplate.svg" >
