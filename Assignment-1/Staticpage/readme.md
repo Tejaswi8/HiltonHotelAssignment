@@ -42,7 +42,7 @@ webpack
 
 1- Clone the boilerplate repo
 
-`git clone git@github.com:HashemKhalifa/webpack-react-boilerplate.git`
+`git clone https://github.com/Tejaswi8/HiltonHotelAssignment.git`
 
 2- `yarn` or `npm install` to install npm packages
 
