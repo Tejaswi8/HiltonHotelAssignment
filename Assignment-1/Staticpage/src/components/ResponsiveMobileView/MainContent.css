@@ -1,0 +1,25 @@
+.mainContent {
+    width: 100%;
+    background-image: url('./../../assets/background.png');
+    background-repeat: repeat;
+    height: 550px;
+}
+.image-div {
+    position: relative;
+    left: 17%;
+    top: 4%;
+}
+.hotelImg {
+    width: 61%;
+    height: 30%;
+    border: solid 2px white;
+}
+.address {
+    color: white;
+    position: relative;
+    left: 10%;
+    top: 4%;
+}
+.margn-btm {
+    margin-bottom: 15px;
+}

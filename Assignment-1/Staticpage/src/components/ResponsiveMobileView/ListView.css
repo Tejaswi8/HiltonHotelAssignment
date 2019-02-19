@@ -1,0 +1,27 @@
+.listview {
+    background-color: white;
+    position: relative;
+    left: 10%;
+    top:9%;
+    width: 250px;
+}
+.list {
+    list-style-type: none;
+    margin: 10;
+    padding: 0;
+    border: solid 2px azure;
+    border-radius: 8px;
+}
+.list li {
+    height: 46px;
+    border: solid 1px white;
+    color: darkblue;
+    margin-left: 10px;
+    margin-top: 7px;
+}
+.leftArrow {
+    float: right;
+    margin-right: 12px;
+    font-weight: 300;
+    font-size: larger;
+}
